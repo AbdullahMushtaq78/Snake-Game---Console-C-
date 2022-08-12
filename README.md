@@ -19,5 +19,6 @@ This is the mini project of Object Oriented Programming course.
 - Ultility Functions (Built-in + Custom)   <br />
 Size of the snake at the start of game can be changed easily in Init function. <br />
 Character to display the snake is also customizable.   <br />
+!!! Make sure to maximize the size of console screen. If the console screen is not big enough than you can see some weired scrolling !!! <br />
 Code is free to use in of your projects. <br />
 Thanks.
